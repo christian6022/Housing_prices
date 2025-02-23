@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "housing-prices"
+version = "0.1.0"
+description = ""
+authors = ["Qristian6022 <a5820059.aoyama@jp>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+kaggle = "^1.6.17"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
